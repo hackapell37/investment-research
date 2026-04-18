@@ -1,0 +1,145 @@
+# Macro thesis
+*Living document. Last updated: April 2026. Source: three years of investment memos (Aug 2023, late 2024, Dec 2025) refined into a working framework.*
+
+---
+
+## Investment philosophy — first principles
+
+Macro conditions first, then factor filtering, then bottom-up fundamentals. Not a pure top-down macro trader — the macro view narrows the universe; position selection still requires fundamental justification.
+
+Preferred style: **value and quality, with GARP tolerance**. Willing to pay for quality if the business compounds. Not willing to pay for narrative.
+
+Factor tilt hierarchy (current cycle): **value > quality > size > momentum (neutral) > low beta (short)**. Willing to stay long volatility given the time horizon. No leverage. No uncovered options.
+
+Benchmark tolerance: 0.9–1.2 beta vs S&P 500. Active sleeve capped at 7.5% target / 10% soft ceiling of household AUM.
+
+Retail edge framework: time horizon (hold through institutional career-risk forcing functions), no risk committee (can take positions institutional capital structurally cannot), tax alpha (TLH, asset location, long-term gain management).
+
+---
+
+## Base case macro — April 2026
+
+### US growth and inflation
+- Slow growth, not zero. Recession not the base case but tail risk is higher than consensus prices.
+- Inflation higher-for-longer. Not spiraling — anchored but above 2% structurally. Fed's 2% target is a political commitment more than an economic likelihood.
+- Corporate earnings resilient via margin levers (cost discipline, pricing, mix shift) rather than volume growth. Do not expect revenue acceleration.
+
+### Interest rates and the yield curve
+- **10yr Treasury roughly anchored at current levels (~4.3–4.5%) over 18 months.** Not a bull, not a bear.
+- Short end falls modestly as Fed cuts — but fewer cuts than the market prices at any given point.
+- **Curve steepens: long 2yr / short 30yr is the structural trade.** Fiscal dominance keeps the long end elevated regardless of Fed action. Growing deficit + term premium repricing + Treasury supply = 30yr stays heavy.
+- **The "moron premium"**: Warsh confirmation accelerates as market prices in Fed capture. Watch first dissent votes and any deviation from orthodox communication as the signal that independence is compromised. This is a tail risk on long-end yields, not a base case — but it's a fat tail.
+- Dollar: reserve status rests on US finance being able to *insist* it's stable in defiance of politics, not on any intrinsic superiority over competitors. More fragile than most price. Mild dollar weakness is the base case, not a dollar collapse.
+
+### AI and technology
+**Core thesis: the AI revolution is 10–15 years away. The market is spending as if it's 2 years away.**
+
+- The chip replacement cycle is a highly cyclical commodity input being priced as if it's a permanent infrastructure monopoly. It isn't.
+- Hyperscalers are becoming accidental asset-heavy companies. The SaaS-to-utility pivot is structurally troubled — these businesses were never built to manage the capex variance, partner dependencies, and political exposure of being critical infrastructure.
+- NeoCloud financing structures (mostly pivoted Bitcoin miners) are the likely point of first visible stress. The credit vehicles around data center financing are where the cracks show first — watch DSCR deterioration and spread widening on private data center debt.
+- **Shorts**: application layer companies re-rated on AI agent promises with no revenue to back it (ServiceNow, Workday class). Meta's advertising model is not long for reality in a world where bots talk to other bots. Tesla for separate structural reasons (brand erosion, execution, valuation).
+- **Longs**: Google (owns the distribution and the internal chips), Apple (either wins or is irrelevant to AI — either way fairly valued). Amazon (FCF machine with cloud optionality). Not Nvidia at this size — too large to argue overweight, CAGR assumptions embedded in the price are logistically impossible.
+- **Thesis invalidation signal**: hyperscaler revenue from AI products begins compounding at 30%+ annually and covering capex with meaningful margin. Not there yet.
+
+### Geopolitics and policy
+- Politics matters more to markets than the prior 30 years. Correlation between government policy and downstream market effects is higher — price in more uncertainty, not less.
+- Trump policy transmission: tariffs and executive orders are the easy channels (low Congressional friction). Large fiscal packages are harder (House margin too thin). Courts are reactive, not proactive — legal challenges slow but don't stop executive action.
+- Policy clientelism is a drag on corporate earnings: companies spend more to access government, uncertainty raises hurdle rates, exemption-seeking replaces investment planning. This is not priced into the consensus earnings outlook.
+- **Geopolitical oil risk**: Strait of Hormuz closure or managed disruption is a structural tail risk, not a binary on/off scenario. A managed toll mechanism (Iran per-ship transit fee) is more likely than a full blockade and creates a durable ~$10/bbl cost premium. Markets repeatedly underprice duration of disruption by assuming rapid normalization.
+
+### Oil and commodities
+- **Oil higher-for-longer**: driven by a combination of OPEC+ supply discipline, chronic underinvestment in production capacity since 2015, and geopolitical risk premium that markets fade too quickly. Sustained in the $75–95 range; spikes above on disruption events.
+- Food/agriculture: structurally higher on climate fragility of key crops, water stress, and input cost inflation. Watch coffee, cocoa, grain — ecological fragility is underpriced by commodity markets.
+- Gold: continued secular interest even if the rate of change in appreciation slows. Dollar weakness + geopolitical uncertainty + central bank accumulation = durable bid.
+
+---
+
+## International views
+
+### Japan — high conviction long
+- **Governance reform** (Stewardship Code, TSE pressure on ROE, cross-holding unwind) is a structural multi-year catalyst. Not a trade — a regime change.
+- **BOJ normalization**: first real monetary tightening in 30 years. Yen at historically suppressed levels. Unhedged exposure offers a double return — equity appreciation plus yen normalization.
+- **Labor market liberalization**: allowing more women to work and gradual immigration reform are structural productivity unlocks. This is Japan becoming a faster, smarter version of what China was trying to be.
+- **Implementation**: DXJ (hedged, captures equity return without yen) + EWJV (unhedged, captures both). Split is deliberate — hedged is the equity thesis, unhedged is the yen normalization optionality bet.
+- **HJPSX** (Hennessy Japan Small Cap) in monitoring portfolio — small cap Japan adds the size factor on top of the governance thesis.
+- **Thesis invalidation**: BOJ reverses normalization under political pressure, or governance reform stalls at the corporate level with companies buying back shares to satisfy TSE without actually changing capital allocation behavior.
+
+### Europe — value acknowledged, pathway skeptical
+- Deep value on any metric vs US. Periphery (Spain, Italy, Portugal, Greece) more interesting than core (Germany, France) on valuation base.
+- **Political pathway is the problem**: right-wing governments solve the immigration question and nothing else. The Draghi competitiveness agenda (defense spending, energy transition, capital markets union) requires political will that the current cycle doesn't produce.
+- Currency: would hedge 40–50% of EUR exposure given dollar fragility thesis cuts both ways — mild dollar weakness is the base case, but political risk in Europe can overwhelm that.
+- UK: no strong view. Brexit wound still working through the system.
+- **Watch**: does a defense spending surge (NATO 2% commitment under US pressure) become a fiscal stimulus that accidentally reboots German industrial capacity? That's the scenario where European equities outperform significantly.
+
+### China — muddling through with a specific unlock thesis
+- Xi is not a communist ideologue in any economically coherent sense — closer to a 1950s conservative nationalist who has sublimated Marxism into a general suspicion of markets and youth culture.
+- China is an **engineering culture** (Dan Wang thesis): the productive capacity and technical talent are real, even as the political economy distorts their deployment.
+- **Base case: muddling through**. Weaker consumer, property sector deflation working through the system slowly (Japan 1990s analog but with more state capacity to manage the pace), no escape from the middle income trap in the near term.
+- **The unlock thesis**: cheap, low-scale AI that's fit for purpose — not frontier AGI but functional automation of industrial and logistics processes — could be the productivity unlock that lets China sidestep the middle income trap without a Western-style services economy. Temu/Shein logistics optimization is an early preview.
+- **Portfolio expression**: EMXC (EM ex-China) + SPEM (includes China) as a deliberate split — no strong conviction, so hold both and let the thesis develop. Watch Chinese 10yr government bond as the real signal (not official GDP statistics).
+- **Thesis invalidation**: Xi succession becomes chaotic, or property sector deflation accelerates beyond state capacity to manage.
+
+### Emerging markets — broadly constructive, selectively
+- Dollar weakness base case is structurally positive for EM as an asset class.
+- EM factor ETFs (DEHP, MFEM) outperforming in monitoring portfolio — consistent with profitability and value tilts working in current environment.
+- India: fascinating but opaque. BJP political model requires building real industrial capacity to sustain growth; perpetual back-office services don't escape the middle income trap. No strong positive or negative view — monitored blind spot.
+- LatAm and Africa: explicitly acknowledged blind spots. No current exposure, no near-term thesis.
+
+---
+
+## Credit cycle view
+
+**Stress shows up first in the corporate refinancing wall — concentrated in 2026–2027 maturity cliff.**
+
+- The volume of leveraged loans and HY bonds maturing 2026–2027 that were issued at 2020–2021 rates is large. Refinancing at current rates compresses interest coverage ratios materially across the mid-market.
+- **Private credit** is the shadow risk: marks-to-model portfolios mean the stress is invisible until it's sudden. BDC NAVs are the canary — watch for NAV deterioration before spread blowouts in public markets.
+- **Leading indicators to track weekly**: HY OAS (ICE BofA), leveraged loan spreads (BKLN as a proxy), BDC NAV trends (ARCC, ORCC as bellwethers), CLO equity tranche demand.
+- **Transmission mechanism**: credit tightening → mid-market capex contraction → earnings misses in industrials and services businesses that depend on levered PE-owned customers → broader multiple compression.
+- Private credit as a short thesis: APO, BX, Ares — marks-to-model portfolios under higher-for-longer rates are slow-moving but directionally correct. Not an immediate catalyst trade — a multi-year grind.
+- **Enforcement risk**: financial sector oversight materially deteriorates over the next 4 years. This means stress builds longer before it's visible, and when it breaks it's messier than a normally-regulated cycle.
+
+---
+
+## Key indicators — what to track weekly
+
+| Series | Source | Why it matters |
+|---|---|---|
+| 10yr Treasury yield | FRED (DGS10) | Rate path signal, moron premium gauge |
+| 2s10s spread | FRED (T10Y2Y) | Curve steepening thesis |
+| 5yr breakeven inflation | FRED (T5YIE) | Inflation anchoring check |
+| WTI front month | yfinance (CL=F) | Oil thesis, Hormuz premium |
+| DXY | yfinance (DX-Y.NYB) | Dollar weakness thesis |
+| HY OAS | FRED (BAMLH0A0HYM2) | Credit cycle early warning |
+| Chinese 10yr govt bond yield | Manual / Koyfin | China base case gauge |
+| BDC NAV (ARCC) | yfinance | Private credit canary |
+
+---
+
+## Open questions — active research agenda
+
+These are unresolved positions, not failures of the thesis. Each has a specific resolution trigger.
+
+- **CORN short**: does the short conflict with higher-for-longer food/inflation thesis? If the short is supply-side thesis (overproduction, ethanol mandate exposure) rather than demand-side, document and hold. If it's directionally long commodity inflation, close.
+- **EUR hedge**: 40–50% of P5 EUR exposure via EUO or forwards? No strong FX conviction currently — which is itself a decision. Resolve before P5 grows materially.
+- **Gartner (IT) re-entry**: TLH harvested. Thesis intact. Wash-sale window management — clock, re-entry price or catalyst trigger?
+- **TSLA short sizing**: currently in both P3 and P8. Is double-book intentional or an artifact? Resolve when real capital enters the active sleeve.
+- **Warsh / Fed independence**: at what point does the moron premium become a base case rather than a tail risk on the long end? Watch first dissent votes post-confirmation.
+
+---
+
+## Belief change log
+
+| Date | Belief updated | Direction | Trigger |
+|---|---|---|---|
+| 2023 | Japan thesis | Initiated | Labor reform + governance reform signals |
+| 2024 | Dollar fragility | Strengthened | Fiscal dominance + Trump policy uncertainty |
+| 2024 | AI timeline | Hardened skepticism | NeoCloud financing cracks, Oracle CDS |
+| 2025 | European pathway | More skeptical | Right-wing political cycle fails to address structural issues |
+| 2025 | China | Refined to "muddle + AI unlock" | Dan Wang engineering culture thesis |
+| 2026 | Credit cycle | Focused on refinancing wall | 2026–2027 maturity cliff data |
+
+*Add entries here as beliefs update. The log is the audit trail.*
+
+---
+
+*This document is the system prompt context for the weekly newsletter synthesis. Claude should interpret incoming news and data against this framework — flagging confirmations, contradictions, and open questions. Do not summarize the news. Interpret it.*
